@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AAAAprojectmgmt
+- 👋 Hi, I’m @AAAA
 - 👀 I’m interested in Nothing
 - 🌱 I’m currently learning GIT Commands
 - 💞️ I’m looking to collaborate on Project mgmt
