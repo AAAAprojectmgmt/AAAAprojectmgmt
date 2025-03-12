@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Project mgmt
 - 📫 How to reach me Don't
 - 😄 Pronouns: rather not say
-- ⚡ Fun fact: CGPA 9.9
+- ⚡ Fun fact:We are a team of 4!!!
 
 <!---
 AAAAprojectmgmt/AAAAprojectmgmt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
